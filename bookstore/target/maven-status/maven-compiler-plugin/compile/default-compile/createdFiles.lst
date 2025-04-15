@@ -1,0 +1,9 @@
+com\legion\bookstore\resource\v2\BookResource.class
+com\legion\bookstore\resource\v3\BookResource.class
+com\legion\bookstore\config\BookApplication.class
+com\legion\bookstore\resource\v1\BookResource.class
+com\legion\bookstore\dto\Book.class
+com\legion\bookstore\JakartaRestConfiguration.class
+com\legion\bookstore\resources\JakartaEE10Resource.class
+com\legion\bookstore\util\DBUtil.class
+com\legion\bookstore\dao\BookDAO.class
